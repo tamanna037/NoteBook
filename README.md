@@ -1,6 +1,6 @@
 # NoteBook
 
-<a href="url"><img src="n1.png" height="48" width="48" ></a>
+<img src="https://github.com/tamanna037/NoteBook/blob/master/n1.jpg" width="48">
 
 It is a simple android application. User can create, edit and delete notes. This is build on android studio.
 
